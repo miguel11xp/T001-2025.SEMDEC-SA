@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://br.linkedin.com/company/next-coders-school" alt="Banner da Turma NextCoders 2025" width="100%">
+  <img src="https://imgs.search.brave.com/0Xm3YgdWzogZhsnlxfvfSc2-7iUgYCyCj13U1zy4lTY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RTNEQVFISXJ6Y096/NWlBQXcvaW1hZ2Ut/c2NhbGVfMTkxXzEx/MjgvMC8xNjgxODUy/Nzk2Nzk2L25leHRf/Y29kZXJzX3NjaG9v/bF9jb3Zlcj9lPTIx/NDc0ODM2NDcmdj1i/ZXRhJnQ9cWVBVEVT/bHZZcF9aSTJKVE1m/SU55c0xnOVZpVndH/TEJUaHBqN1o4LTY5/Zw" alt="Banner da Turma NextCoders 2025" width="100%">
   <h1>404 Turma Not Found</h1>
   <p>Repositório de aprendizados e projetos da Turma 2025 NextCoders</p>
 </div>
