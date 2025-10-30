@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://br.freepik.com/fotos-vetores-gratis/banner-programacao" alt="Banner da Turma NextCoders 2025" width="100%">
+  <img src="https://img.freepik.com/vetores-premium/banner-feliz-dia-dos-programadores-em-estilo-moderno_541170-3193.jpg?semt=ais_hybrid&w=740&q=80" alt="Banner da Turma NextCoders 2025" width="100%">
   <h1>404 Turma Not Found</h1>
   <p>Repositório de aprendizados e projetos da Turma 2025 NextCoders</p>
 </div>
